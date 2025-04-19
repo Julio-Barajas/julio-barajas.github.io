@@ -3,12 +3,12 @@ layout: default
 title: Julio Barajas – Data Scientist Portfolio
 ---
 
-<!-- 🧑‍💼 Hero About Me Section -->
-<div style="display: flex; background-color: #2f2f2f; color: white; padding: 3rem; align-items: center; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 300px;">
-    <img src="Julio.jpg" alt="Julio Barajas" style="border-radius: 8px; width: 100%; max-width: 400px;" />
+<!-- 🧑‍💼 Hero About Me Section – Side by Side -->
+<div style="display: flex; background-color: #4a4a4a; color: white; padding: 3rem; align-items: center; flex-wrap: wrap; justify-content: center;">
+  <div style="flex: 1; min-width: 280px; max-width: 400px; margin: 1rem;">
+    <img src="Julio.jpg" alt="Julio Barajas" style="border-radius: 8px; width: 100%; max-width: 100%; box-shadow: 0 0 10px rgba(0,0,0,0.4);" />
   </div>
-  <div style="flex: 2; min-width: 300px; padding: 1rem;">
+  <div style="flex: 2; min-width: 280px; max-width: 600px; margin: 1rem;">
     <h1 style="margin-top: 0;">About Me</h1>
     <p>
       I’m Julio, a data scientist and analytics architect passionate about transforming messy datasets into strategic insights.
@@ -38,3 +38,4 @@ title: Julio Barajas – Data Scientist Portfolio
 - 💼 IBM, TCS, Dell, Reece Group
 - 📧 julio.barajas.c@gmail.com
 - 📄 [Resume](resume.pdf)
+
