@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Julio Barajas – Data Scientist Portfolio
+title: Julio Barajas
 ---
 
-# 👋 Hi, I'm Julio
+#  Hi, I'm Julio
 
 I'm a data scientist and analytics architect with over a decade of experience delivering machine learning models, dashboards, and enterprise reporting solutions.
 
@@ -11,7 +11,7 @@ I build scalable tools that combine **data science**, **Power BI**, and **cloud 
 
 ---
 
-## 📂 My Projects
+##  My Projects
 
 - [🧠 Cancer Detection ML App](https://julio-barajas.github.io/cancer-prediction-frontend)  
   A random forest model trained on breast cancer data and deployed with FastAPI on Azure.  
@@ -25,7 +25,7 @@ I build scalable tools that combine **data science**, **Power BI**, and **cloud 
 
 ---
 
-## 📜 About Me
+##  About Me
 
 - 🎓 Master's in Data Modeling & Systems Dynamics (Erasmus Mundus)
 - 💼 IBM, TCS, Dell, Reece Group – 10+ years in BI and analytics
