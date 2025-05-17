@@ -45,4 +45,3 @@ title: Julio Barajas – Data Scientist Portfolio
 - 💼 IBM, TCS, Dell, Reece Group
 - 📧 julio.barajas.c@gmail.com
 - 📄 [Resume](resume.pdf)
-
