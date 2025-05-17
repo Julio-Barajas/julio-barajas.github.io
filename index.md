@@ -3,13 +3,13 @@ layout: default
 title: Julio Barajas – Data Scientist Portfolio
 ---
 
-<!-- 🧑‍💼 FULL-SCREEN About Me Section – Forces Full Width -->
-<section style="width: 100vw; margin-left: calc(-50vw + 50%); background-color: #7f9baf; color: white; padding: 4rem 2rem;">
+<!-- 🧑‍💼 FULL-SCREEN About Me Section – Image on Right + Bigger + White Title -->
+<section style="width: 100vw; margin-left: calc(-50vw + 50%); background-color: #1e2a45; color: white; padding: 4rem 2rem;">
   <div style="max-width: 1200px; margin: auto; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
     
     <!-- Text -->
     <div style="flex: 1; min-width: 300px; padding: 1rem;">
-      <h1 style="margin-top: 0;">About Me</h1>
+      <h1 style="margin-top: 0; color: white;">About Me</h1>
       <p>
         I’m Julio, a data scientist and analytics architect passionate about transforming messy datasets into strategic insights.
         I specialize in developing ML models, building enterprise dashboards, and deploying cloud-based data solutions using Python, Power BI, and Azure.
@@ -23,7 +23,7 @@ title: Julio Barajas – Data Scientist Portfolio
     </div>
 
     <!-- Image -->
-    <div style="flex: 1; min-width: 300px; max-width: 400px; padding: 1rem;">
+    <div style="flex: 1; min-width: 300px; max-width: 480px; padding: 1rem;">
       <img src="Julio.jpg" alt="Julio Barajas" style="border: none; width: 120%; max-width: 480px; border-radius: 8px;" />
     </div>
 
