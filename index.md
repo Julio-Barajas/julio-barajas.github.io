@@ -24,7 +24,7 @@ title: Julio Barajas – Data Scientist Portfolio
 
     <!-- Image -->
     <div style="flex: 1; min-width: 300px; max-width: 400px; padding: 1rem;">
-      <img src="Julio.jpg" alt="Julio Barajas" style="border-radius: 8px; width: 100%; box-shadow: 0 0 10px rgba(0,0,0,0.4);" />
+      <img src="Julio.jpg" alt="Julio Barajas" style="border-radius: 8px; width: 100%; border: 4px solid #1e2a45;" />
     </div>
 
   </div>
