@@ -4,7 +4,7 @@ title: Julio Barajas – Data Scientist Portfolio
 ---
 
 <!-- 🧑‍💼 FULL-SCREEN About Me Section – Forces Full Width -->
-<section style="width: 100vw; margin-left: calc(-50vw + 50%); background-color: #075c97; color: white; padding: 4rem 2rem;">
+<section style="width: 100vw; margin-left: calc(-50vw + 50%); background-color: #7f9baf; color: white; padding: 4rem 2rem;">
   <div style="max-width: 1200px; margin: auto; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
     
     <!-- Text -->
