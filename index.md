@@ -3,16 +3,17 @@ layout: default
 title: Julio Barajas – Data Scientist Portfolio
 ---
 
-<!-- 💡 Core Skills Section – Full Width with Large Icons -->
+<!-- 💡 Core Skills Section – Full Width with Icon Padding to Hide Image Frame -->
 <section style="width: 100vw; margin-left: calc(-50vw + 50%); background-color: #f9f9f9; padding: 4rem 2rem;">
   <div style="max-width: 1200px; margin: auto; text-align: center;">
-    <h2 style="color: #1e2a45; margin-bottom: 2rem;">How I can help your business to grow</h2>
+    <h2 style="color: #1e2a45; margin-bottom: 2rem;">What I Bring to the Table</h2>
     
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2rem;">
       
       <!-- 🔷 Dashboards -->
       <div style="flex: 1; min-width: 260px; max-width: 450px; background: white; padding: 2rem; border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.05);">
-        <img src="icon1.png" alt="Dashboards" style="width: 180px; margin-bottom: 1rem;" />
+        <img src="icon1.png" alt="Dashboards"
+             style="width: 180px; background-color: #f9f9f9; padding: 24px; border-radius: 8px; box-shadow: none; margin-bottom: 1rem;" />
         <h3 style="color: #1e2a45;">Dashboards</h3>
         <p>
           I specialize in building real-time, visually impactful dashboards using Power BI.
@@ -22,7 +23,8 @@ title: Julio Barajas – Data Scientist Portfolio
 
       <!-- 🔷 Data Science -->
       <div style="flex: 1; min-width: 260px; max-width: 450px; background: white; padding: 2rem; border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.05);">
-        <img src="icon2.png" alt="Data Science" style="width: 180px; margin-bottom: 1rem;" />
+        <img src="icon2.png" alt="Data Science"
+             style="width: 180px; background-color: #f9f9f9; padding: 24px; border-radius: 8px; box-shadow: none; margin-bottom: 1rem;" />
         <h3 style="color: #1e2a45;">Data Science</h3>
         <p>
           I apply forecasting and classification models like linear regression, random forests, and XGBoost to solve business problems.
@@ -33,6 +35,7 @@ title: Julio Barajas – Data Scientist Portfolio
     </div>
   </div>
 </section>
+
 
 ---
 
