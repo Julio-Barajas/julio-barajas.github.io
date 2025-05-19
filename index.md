@@ -6,7 +6,7 @@ title: Julio Barajas – Data Scientist Portfolio
 <!-- 💡 Core Skills Section – Full Width with Icon Padding to Hide Image Frame -->
 <section style="width: 100vw; margin-left: calc(-50vw + 50%); background-color: #f9f9f9; padding: 4rem 2rem;">
   <div style="max-width: 1200px; margin: auto; text-align: center;">
-    <h2 style="color: #1e2a45; margin-bottom: 2rem;">What I Bring to the Table</h2>
+    <h2 style="color: #1e2a45; margin-bottom: 2rem;">How I can help you business</h2>
     
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2rem;">
       
