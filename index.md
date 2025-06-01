@@ -36,8 +36,6 @@ title: Julio Barajas – Data Scientist Portfolio
   </div>
 </section>
 
----
-
 <!-- 🧑‍💼 About Me Section – Second with Custom Blue (#7897b4) -->
 <section style="width: 100vw; margin-left: calc(-50vw + 50%); background-color: #7897b4; color: white; padding: 4rem 2rem;">
   <div style="max-width: 1200px; margin: auto; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
@@ -65,65 +63,60 @@ title: Julio Barajas – Data Scientist Portfolio
   </div>
 </section>
 
----
-
-<!-- 📂 Projects Section with Responsive Grid -->
-<section style="padding: 4rem 2rem; max-width: 1200px; margin: auto;">
-  <h2 style="text-align: center; color: #1e2a45; margin-bottom: 2rem;">📂 Projects</h2>
-
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem;">
-
-    <!-- Project 1 -->
-    <div style="border-radius: 12px; overflow: hidden; box-shadow: 0 0 8px rgba(0,0,0,0.1);">
-      <img src="dashboard1.png" alt="Dashboard 1" style="width: 100%; height: auto;">
-      <div style="padding: 1rem;">
-        <h3>eCommerce Analytics</h3>
-        <p>Dashboard built for a retail group to track online orders, revenue, and conversion rates in real-time.</p>
+<!-- 🖼️ Interactive Projects Grid -->
+<section style="width: 100vw; margin-left: calc(-50vw + 50%); padding: 4rem 2rem; background-color: #f4f4f4;">
+  <div style="max-width: 100%; margin: auto; padding: 0 2rem;">
+    <h2 style="text-align: center; color: #1e2a45;">📊 Dashboards</h2>
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem; margin-top: 2rem;">
+      <div style="position: relative; overflow: hidden; border-radius: 10px;">
+        <img src="dash1.png" alt="Dashboard 1" style="width: 100%; display: block;">
+        <div style="position: absolute; inset: 0; background-color: rgba(0,0,0,0.7); color: white; opacity: 0; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 1rem; transition: opacity 0.3s;">
+          <h4>Sales Executive Report</h4>
+          <p style="text-align: center;">Automated Power BI dashboard for monthly insights.</p>
+        </div>
+      </div>
+      <div style="position: relative; overflow: hidden; border-radius: 10px;">
+        <img src="dash2.png" alt="Dashboard 2" style="width: 100%; display: block;">
+        <div style="position: absolute; inset: 0; background-color: rgba(0,0,0,0.7); color: white; opacity: 0; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 1rem; transition: opacity 0.3s;">
+          <h4>Retail KPIs</h4>
+          <p style="text-align: center;">Real-time operational KPIs across branches.</p>
+        </div>
+      </div>
+      <div style="position: relative; overflow: hidden; border-radius: 10px;">
+        <img src="dash3.png" alt="Dashboard 3" style="width: 100%; display: block;">
+        <div style="position: absolute; inset: 0; background-color: rgba(0,0,0,0.7); color: white; opacity: 0; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 1rem; transition: opacity 0.3s;">
+          <h4>CFO Financial Summary</h4>
+          <p style="text-align: center;">Unified view with forecast and trend lines.</p>
+        </div>
       </div>
     </div>
 
-    <!-- Project 2 -->
-    <div style="border-radius: 12px; overflow: hidden; box-shadow: 0 0 8px rgba(0,0,0,0.1);">
-      <img src="dashboard2.png" alt="Dashboard 2" style="width: 100%; height: auto;">
-      <div style="padding: 1rem;">
-        <h3>Finance Scorecard</h3>
-        <p>Power BI dashboard for tracking margins, OPEX, and profitability across business units.</p>
+    <h2 style="text-align: center; color: #1e2a45; margin-top: 4rem;">🧠 Data Science Projects</h2>
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem; margin-top: 2rem;">
+      <div style="position: relative; overflow: hidden; border-radius: 10px;">
+        <img src="ml1.png" alt="Cancer Detection App" style="width: 100%; display: block;">
+        <div style="position: absolute; inset: 0; background-color: rgba(0,0,0,0.7); color: white; opacity: 0; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 1rem; transition: opacity 0.3s;">
+          <h4>Cancer Detection</h4>
+          <p style="text-align: center;">Classifier app with sklearn + Flask + Azure.</p>
+        </div>
+      </div>
+      <div style="position: relative; overflow: hidden; border-radius: 10px;">
+        <img src="ml2.png" alt="Insurance Regression" style="width: 100%; display: block;">
+        <div style="position: absolute; inset: 0; background-color: rgba(0,0,0,0.7); color: white; opacity: 0; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 1rem; transition: opacity 0.3s;">
+          <h4>Insurance Cost Estimation</h4>
+          <p style="text-align: center;">Regression model with XGBoost and Snowflake.</p>
+        </div>
       </div>
     </div>
-
-    <!-- Project 3 -->
-    <div style="border-radius: 12px; overflow: hidden; box-shadow: 0 0 8px rgba(0,0,0,0.1);">
-      <img src="dashboard3.png" alt="Dashboard 3" style="width: 100%; height: auto;">
-      <div style="padding: 1rem;">
-        <h3>Logistics Insights</h3>
-        <p>Interactive report highlighting delivery performance, warehouse status, and logistics KPIs.</p>
-      </div>
-    </div>
-
-    <!-- ML Project 1 -->
-    <div style="border-radius: 12px; overflow: hidden; box-shadow: 0 0 8px rgba(0,0,0,0.1);">
-      <img src="ml1.png" alt="ML Project 1" style="width: 100%; height: auto;">
-      <div style="padding: 1rem;">
-        <h3>Breast Cancer Predictor</h3>
-        <p>Frontend app using logistic regression and SVM to classify cancer presence from medical data.</p>
-      </div>
-    </div>
-
-    <!-- ML Project 2 -->
-    <div style="border-radius: 12px; overflow: hidden; box-shadow: 0 0 8px rgba(0,0,0,0.1);">
-      <img src="ml2.png" alt="ML Project 2" style="width: 100%; height: auto;">
-      <div style="padding: 1rem;">
-        <h3>Insurance Cost Estimator</h3>
-        <p>Regression model using XGBoost to estimate individual insurance costs from demographic and health data.</p>
-      </div>
-    </div>
-
   </div>
 </section>
 
----
-
-## 📬 Contact
-
-- 📧 julio.barajas.c@gmail.com  
-- 📄 [Resume](resume.pdf)
+<!-- ✉️ Contact -->
+<section style="padding: 4rem 2rem;">
+  <h2>📬 Contact</h2>
+  <ul>
+    <li>💼 IBM, TCS, Dell, Reece Group</li>
+    <li>📧 julio.barajas.c@gmail.com</li>
+    <li>📄 <a href="resume.pdf">Resume</a></li>
+  </ul>
+</section>
