@@ -69,21 +69,21 @@ title: Julio Barajas – Data Scientist Portfolio
     <h2 style="text-align: center; color: #1e2a45;">📊 Dashboards</h2>
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem; margin-top: 2rem;">
       <div style="position: relative; overflow: hidden; border-radius: 10px;">
-        <img src="dash1.png" alt="Dashboard 1" style="width: 100%; display: block;">
+        <img src="dashboard1.png" alt="Dashboard 1" style="width: 100%; display: block;">
         <div style="position: absolute; inset: 0; background-color: rgba(0,0,0,0.7); color: white; opacity: 0; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 1rem; transition: opacity 0.3s;">
           <h4>Sales Executive Report</h4>
           <p style="text-align: center;">Automated Power BI dashboard for monthly insights.</p>
         </div>
       </div>
       <div style="position: relative; overflow: hidden; border-radius: 10px;">
-        <img src="dash2.png" alt="Dashboard 2" style="width: 100%; display: block;">
+        <img src="dashboard2.png" alt="Dashboard 2" style="width: 100%; display: block;">
         <div style="position: absolute; inset: 0; background-color: rgba(0,0,0,0.7); color: white; opacity: 0; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 1rem; transition: opacity 0.3s;">
           <h4>Retail KPIs</h4>
           <p style="text-align: center;">Real-time operational KPIs across branches.</p>
         </div>
       </div>
       <div style="position: relative; overflow: hidden; border-radius: 10px;">
-        <img src="dash3.png" alt="Dashboard 3" style="width: 100%; display: block;">
+        <img src="dashboard3.png" alt="Dashboard 3" style="width: 100%; display: block;">
         <div style="position: absolute; inset: 0; background-color: rgba(0,0,0,0.7); color: white; opacity: 0; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 1rem; transition: opacity 0.3s;">
           <h4>CFO Financial Summary</h4>
           <p style="text-align: center;">Unified view with forecast and trend lines.</p>
