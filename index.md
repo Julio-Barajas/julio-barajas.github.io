@@ -63,60 +63,65 @@ title: Julio Barajas – Data Scientist Portfolio
   </div>
 </section>
 
-<!-- 🖼️ Interactive Projects Grid -->
+<!-- 🖼️ Projects Grid Section -->
 <section style="width: 100vw; margin-left: calc(-50vw + 50%); padding: 4rem 2rem; background-color: #f4f4f4;">
-  <div style="max-width: 100%; margin: auto; padding: 0 2rem;">
+  <div style="max-width: 1400px; margin: auto;">
     <h2 style="text-align: center; color: #1e2a45;">📊 Dashboards</h2>
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem; margin-top: 2rem;">
-      <div style="position: relative; overflow: hidden; border-radius: 10px;">
-        <img src="dashboard1.png" alt="Dashboard 1" style="width: 100%; display: block;">
-        <div style="position: absolute; inset: 0; background-color: rgba(0,0,0,0.7); color: white; opacity: 0; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 1rem; transition: opacity 0.3s;">
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin-top: 2rem;">
+      
+      <div style="position: relative; aspect-ratio: 1 / 1; overflow: hidden; border-radius: 10px;">
+        <img src="dashboard1.png" alt="Dashboard 1" style="width: 100%; height: 100%; object-fit: cover;">
+        <div style="position: absolute; inset: 0; background-color: rgba(0,0,0,0.8); color: white; opacity: 0; transition: opacity 0.3s; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 1rem;">
           <h4>Sales Executive Report</h4>
           <p style="text-align: center;">Automated Power BI dashboard for monthly insights.</p>
         </div>
       </div>
-      <div style="position: relative; overflow: hidden; border-radius: 10px;">
-        <img src="dashboard2.png" alt="Dashboard 2" style="width: 100%; display: block;">
-        <div style="position: absolute; inset: 0; background-color: rgba(0,0,0,0.7); color: white; opacity: 0; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 1rem; transition: opacity 0.3s;">
+
+      <div style="position: relative; aspect-ratio: 1 / 1; overflow: hidden; border-radius: 10px;">
+        <img src="dashboard2.png" alt="Dashboard 2" style="width: 100%; height: 100%; object-fit: cover;">
+        <div style="position: absolute; inset: 0; background-color: rgba(0,0,0,0.8); color: white; opacity: 0; transition: opacity 0.3s; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 1rem;">
           <h4>Retail KPIs</h4>
           <p style="text-align: center;">Real-time operational KPIs across branches.</p>
         </div>
       </div>
-      <div style="position: relative; overflow: hidden; border-radius: 10px;">
-        <img src="dashboard3.png" alt="Dashboard 3" style="width: 100%; display: block;">
-        <div style="position: absolute; inset: 0; background-color: rgba(0,0,0,0.7); color: white; opacity: 0; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 1rem; transition: opacity 0.3s;">
+
+      <div style="position: relative; aspect-ratio: 1 / 1; overflow: hidden; border-radius: 10px;">
+        <img src="dashboard3.png" alt="Dashboard 3" style="width: 100%; height: 100%; object-fit: cover;">
+        <div style="position: absolute; inset: 0; background-color: rgba(0,0,0,0.8); color: white; opacity: 0; transition: opacity 0.3s; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 1rem;">
           <h4>CFO Financial Summary</h4>
           <p style="text-align: center;">Unified view with forecast and trend lines.</p>
         </div>
       </div>
+
     </div>
 
     <h2 style="text-align: center; color: #1e2a45; margin-top: 4rem;">🧠 Data Science Projects</h2>
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem; margin-top: 2rem;">
-      <div style="position: relative; overflow: hidden; border-radius: 10px;">
-        <img src="ml1.png" alt="Cancer Detection App" style="width: 100%; display: block;">
-        <div style="position: absolute; inset: 0; background-color: rgba(0,0,0,0.7); color: white; opacity: 0; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 1rem; transition: opacity 0.3s;">
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin-top: 2rem;">
+      
+      <div style="position: relative; aspect-ratio: 1 / 1; overflow: hidden; border-radius: 10px;">
+        <img src="ml1.png" alt="Cancer Detection App" style="width: 100%; height: 100%; object-fit: cover;">
+        <div style="position: absolute; inset: 0; background-color: rgba(0,0,0,0.8); color: white; opacity: 0; transition: opacity 0.3s; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 1rem;">
           <h4>Cancer Detection</h4>
           <p style="text-align: center;">Classifier app with sklearn + Flask + Azure.</p>
         </div>
       </div>
-      <div style="position: relative; overflow: hidden; border-radius: 10px;">
-        <img src="ml2.png" alt="Insurance Regression" style="width: 100%; display: block;">
-        <div style="position: absolute; inset: 0; background-color: rgba(0,0,0,0.7); color: white; opacity: 0; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 1rem; transition: opacity 0.3s;">
+
+      <div style="position: relative; aspect-ratio: 1 / 1; overflow: hidden; border-radius: 10px;">
+        <img src="ml2.png" alt="Insurance Regression" style="width: 100%; height: 100%; object-fit: cover;">
+        <div style="position: absolute; inset: 0; background-color: rgba(0,0,0,0.8); color: white; opacity: 0; transition: opacity 0.3s; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 1rem;">
           <h4>Insurance Cost Estimation</h4>
           <p style="text-align: center;">Regression model with XGBoost and Snowflake.</p>
         </div>
       </div>
+
     </div>
   </div>
 </section>
 
-<!-- ✉️ Contact -->
-<section style="padding: 4rem 2rem;">
-  <h2>📬 Contact</h2>
-  <ul>
-    <li>💼 IBM, TCS, Dell, Reece Group</li>
-    <li>📧 julio.barajas.c@gmail.com</li>
-    <li>📄 <a href="resume.pdf">Resume</a></li>
-  </ul>
-</section>
+<!-- Hover effect script -->
+<script>
+  document.querySelectorAll('section img + div').forEach(overlay => {
+    overlay.parentElement.addEventListener('mouseenter', () => overlay.style.opacity = 1);
+    overlay.parentElement.addEventListener('mouseleave', () => overlay.style.opacity = 0);
+  });
+</script>
