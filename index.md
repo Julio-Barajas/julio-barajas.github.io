@@ -73,14 +73,14 @@ title: Julio Barajas – Data Scientist Portfolio
     <h2 style="text-align: center; color: #1e2a45; margin-top: 4rem;">🧠 Data Science Projects</h2>
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin-top: 2rem;">
       <div style="position: relative; overflow: hidden; border-radius: 10px;">
-        <img src="dashboard4.png" alt="ML 1" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; object-position: top right;">
+        <img src="ml1.png" alt="ML 1" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; object-position: top right;">
         <div style="position: absolute; inset: 0; background: rgba(0,0,0,0.7); color: white; opacity: 0; display: flex; flex-direction: column; justify-content: center; align-items: center; transition: opacity 0.3s;" onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0'">
           <h4>Cancer Detection App</h4>
           <p>Classifier with Flask + Scikit-learn + Azure.</p>
         </div>
       </div>
       <div style="position: relative; overflow: hidden; border-radius: 10px;">
-        <img src="dashboard5.png" alt="ML 2" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; object-position: top right;">
+        <img src="ml2.png" alt="ML 2" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; object-position: top right;">
         <div style="position: absolute; inset: 0; background: rgba(0,0,0,0.7); color: white; opacity: 0; display: flex; flex-direction: column; justify-content: center; align-items: center; transition: opacity 0.3s;" onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0'">
           <h4>Insurance Estimator</h4>
           <p>XGBoost regression on health data using Snowflake.</p>
